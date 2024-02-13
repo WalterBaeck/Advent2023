@@ -1,0 +1,262 @@
+Found start at [5,5]
+11 InputLines were read.
+Read in Grid[11 x 11]
+====== Step 1 =====
+...........
+.....###.#.
+.###.##..#.
+..#.#...#..
+....#O#....
+.##.O.####.
+.##..#...#.
+.......##..
+.##.#.####.
+.##..##.##.
+...........
+
+After 1 steps, potentially arrived on 2 cells
+====== Step 2 =====
+...........
+.....###.#.
+.###.##..#.
+..#.#O..#..
+....#.#....
+.##O.O####.
+.##.O#...#.
+.......##..
+.##.#.####.
+.##..##.##.
+...........
+
+After 2 steps, potentially arrived on 4 cells
+====== Step 3 =====
+...........
+.....###.#.
+.###.##..#.
+..#.#.O.#..
+...O#O#....
+.##.O.####.
+.##O.#...#.
+....O..##..
+.##.#.####.
+.##..##.##.
+...........
+
+After 3 steps, potentially arrived on 6 cells
+====== Step 4 =====
+...........
+.....###.#.
+.###.##..#.
+..#O#O.O#..
+..O.#.#....
+.##O.O####.
+.##.O#...#.
+...O.O.##..
+.##.#.####.
+.##..##.##.
+...........
+
+After 4 steps, potentially arrived on 9 cells
+====== Step 5 =====
+...........
+.....###.#.
+.###.##O.#.
+..#.#.O.#..
+.O.O#O#O...
+.##.O.####.
+.##O.#...#.
+..O.O.O##..
+.##O#O####.
+.##..##.##.
+...........
+
+After 5 steps, potentially arrived on 13 cells
+====== Step 6 =====
+...........
+.....###.#.
+.###.##.O#.
+.O#O#O.O#..
+O.O.#.#.O..
+.##O.O####.
+.##.O#O..#.
+.O.O.O.##..
+.##.#.####.
+.##O.##.##.
+...........
+
+After 6 steps, potentially arrived on 16 cells
+====== Step 7 =====
+...........
+.....###O#.
+.###.##O.#.
+O.#.#.O.#..
+.O.O#O#O.O.
+O##.O.####.
+.##O.#.O.#.
+O.O.O.O##..
+.##O#O####.
+.##.O##.##.
+...O.......
+
+After 7 steps, potentially arrived on 21 cells
+====== Step 8 =====
+........O..
+.....###.#.
+O###.##.O#.
+.O#O#O.O#O.
+O.O.#.#.O.O
+.##O.O####.
+O##.O#O.O#.
+.O.O.O.##..
+O##.#.####.
+.##O.##.##.
+..O.O......
+
+After 8 steps, potentially arrived on 25 cells
+====== Step 9 =====
+.......O.O.
+O....###O#.
+.###.##O.#.
+O.#.#.O.#.O
+.O.O#O#O.O.
+O##.O.####O
+.##O.#.O.#.
+O.O.O.O##..
+.##O#O####.
+O##.O##.##.
+.O.O.O.....
+
+After 9 steps, potentially arrived on 29 cells
+====== Step 10 =====
+O.....O.O.O
+.O...###.#.
+O###.##.O#O
+.O#O#O.O#O.
+O.O.#.#.O.O
+.##O.O####.
+O##.O#O.O#O
+.O.O.O.##..
+O##.#.####.
+.##O.##.##.
+O.O.O.O....
+
+After 10 steps, potentially arrived on 33 cells
+====== Step 11 =====
+.O...O.O.O.
+O.O..###O#O
+.###.##O.#.
+O.#.#.O.#.O
+.O.O#O#O.O.
+O##.O.####O
+.##O.#.O.#.
+O.O.O.O##.O
+.##O#O####.
+O##.O##.##.
+.O.O.O.O...
+
+After 11 steps, potentially arrived on 35 cells
+====== Step 12 =====
+O.O.O.O.O.O
+.O.O.###.#.
+O###.##.O#O
+.O#O#O.O#O.
+O.O.#.#.O.O
+.##O.O####.
+O##.O#O.O#O
+.O.O.O.##O.
+O##.#.####O
+.##O.##O##.
+O.O.O.O.O..
+
+After 12 steps, potentially arrived on 40 cells
+====== Step 13 =====
+.O.O.O.O.O.
+O.O.O###O#O
+.###.##O.#.
+O.#.#.O.#.O
+.O.O#O#O.O.
+O##.O.####O
+.##O.#.O.#.
+O.O.O.O##.O
+.##O#O####.
+O##.O##.##O
+.O.O.O.O.O.
+
+After 13 steps, potentially arrived on 39 cells
+====== Step 14 =====
+O.O.O.O.O.O
+.O.O.###.#.
+O###O##.O#O
+.O#O#O.O#O.
+O.O.#.#.O.O
+.##O.O####.
+O##.O#O.O#O
+.O.O.O.##O.
+O##.#.####O
+.##O.##O##.
+O.O.O.O.O.O
+
+After 14 steps, potentially arrived on 42 cells
+====== Step 15 =====
+.O.O.O.O.O.
+O.O.O###O#O
+.###.##O.#.
+O.#.#.O.#.O
+.O.O#O#O.O.
+O##.O.####O
+.##O.#.O.#.
+O.O.O.O##.O
+.##O#O####.
+O##.O##.##O
+.O.O.O.O.O.
+
+After 15 steps, potentially arrived on 39 cells
+After 16 steps, potentially arrived on 42 cells
+After 17 steps, potentially arrived on 39 cells
+After 18 steps, potentially arrived on 42 cells
+After 19 steps, potentially arrived on 39 cells
+After 20 steps, potentially arrived on 42 cells
+After 21 steps, potentially arrived on 39 cells
+After 22 steps, potentially arrived on 42 cells
+After 23 steps, potentially arrived on 39 cells
+After 24 steps, potentially arrived on 42 cells
+After 25 steps, potentially arrived on 39 cells
+After 26 steps, potentially arrived on 42 cells
+After 27 steps, potentially arrived on 39 cells
+After 28 steps, potentially arrived on 42 cells
+After 29 steps, potentially arrived on 39 cells
+After 30 steps, potentially arrived on 42 cells
+After 31 steps, potentially arrived on 39 cells
+After 32 steps, potentially arrived on 42 cells
+After 33 steps, potentially arrived on 39 cells
+After 34 steps, potentially arrived on 42 cells
+After 35 steps, potentially arrived on 39 cells
+After 36 steps, potentially arrived on 42 cells
+After 37 steps, potentially arrived on 39 cells
+After 38 steps, potentially arrived on 42 cells
+After 39 steps, potentially arrived on 39 cells
+After 40 steps, potentially arrived on 42 cells
+After 41 steps, potentially arrived on 39 cells
+After 42 steps, potentially arrived on 42 cells
+After 43 steps, potentially arrived on 39 cells
+After 44 steps, potentially arrived on 42 cells
+After 45 steps, potentially arrived on 39 cells
+After 46 steps, potentially arrived on 42 cells
+After 47 steps, potentially arrived on 39 cells
+After 48 steps, potentially arrived on 42 cells
+After 49 steps, potentially arrived on 39 cells
+After 50 steps, potentially arrived on 42 cells
+After 51 steps, potentially arrived on 39 cells
+After 52 steps, potentially arrived on 42 cells
+After 53 steps, potentially arrived on 39 cells
+After 54 steps, potentially arrived on 42 cells
+After 55 steps, potentially arrived on 39 cells
+After 56 steps, potentially arrived on 42 cells
+After 57 steps, potentially arrived on 39 cells
+After 58 steps, potentially arrived on 42 cells
+After 59 steps, potentially arrived on 39 cells
+After 60 steps, potentially arrived on 42 cells
+After 61 steps, potentially arrived on 39 cells
+After 62 steps, potentially arrived on 42 cells
+After 63 steps, potentially arrived on 39 cells
+After 64 steps, potentially arrived on 42 cells

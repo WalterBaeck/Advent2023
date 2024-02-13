@@ -1,0 +1,32 @@
+58 InputLines were read.
+Target[0]:rx of Element[8]:bq was not found in the list
+High Fanin detected (7) on Element[25]:qz Type NandGate
+High Fanin detected (8) on Element[34]:db Type NandGate
+High Fanin detected (8) on Element[54]:sd Type NandGate
+High Fanin detected (10) on Element[55]:lx Type NandGate
+Low seen from HighFanin El[54]:sd after 4632 pulses in Cycle 3769
+Low seen from HighFanin El[34]:db after 4752 pulses in Cycle 3929
+Low seen from HighFanin El[25]:qz after 4183 pulses in Cycle 4001
+Low seen from HighFanin El[55]:lx after 6976 pulses in Cycle 4027
+Low seen from HighFanin El[54]:sd after 9272 pulses in Cycle 7538
+Loop 4640 detected on HighFanin El[54]:sd in Cycle 7538
+Low seen from HighFanin El[34]:db after 9512 pulses in Cycle 7858
+Loop 4760 detected on HighFanin El[34]:db in Cycle 7858
+Low seen from HighFanin El[25]:qz after 8373 pulses in Cycle 8002
+Loop 4190 detected on HighFanin El[25]:qz in Cycle 8002
+Low seen from HighFanin El[55]:lx after 13962 pulses in Cycle 8054
+Loop 6986 detected on HighFanin El[55]:lx in Cycle 8054
+Low seen from HighFanin El[54]:sd after 13912 pulses in Cycle 11307
+Low seen from HighFanin El[34]:db after 14272 pulses in Cycle 11787
+Low seen from HighFanin El[25]:qz after 12563 pulses in Cycle 12003
+Low seen from HighFanin El[55]:lx after 20948 pulses in Cycle 12081
+Low seen from HighFanin El[54]:sd after 18552 pulses in Cycle 15076
+Loop 9280 detected on HighFanin El[54]:sd in Cycle 15076
+Low seen from HighFanin El[34]:db after 19032 pulses in Cycle 15716
+Loop 9520 detected on HighFanin El[34]:db in Cycle 15716
+Low seen from HighFanin El[25]:qz after 16753 pulses in Cycle 16004
+Loop 8380 detected on HighFanin El[25]:qz in Cycle 16004
+Low seen from HighFanin El[55]:lx after 27934 pulses in Cycle 16108
+Loop 13972 detected on HighFanin El[55]:lx in Cycle 16108
+Low seen from HighFanin El[54]:sd after 23192 pulses in Cycle 18845
+Low seen from HighFanin El[34]:db after 23792 pulses in Cycle 19645

@@ -1,0 +1,246 @@
+13 InputLines were read.
+Found 15 Nodes and 33 Links
+MinPathLen 1 between [0]:jqt and [1]:rhn
+   jqt-rhn
+MinPathLen 1 between [0]:jqt and [2]:xhk
+   jqt-xhk
+MinPathLen 1 between [0]:jqt and [3]:nvd
+   jqt-nvd
+MinPathLen 3 between [0]:jqt and [4]:rsh
+   jqt-nvd pzl-nvd rsh-pzl
+MinPathLen 3 between [0]:jqt and [5]:frs
+   jqt-nvd qnr-nvd frs-qnr
+MinPathLen 2 between [0]:jqt and [6]:pzl
+   jqt-nvd pzl-nvd
+MinPathLen 3 between [0]:jqt and [7]:lsr
+   jqt-nvd pzl-nvd pzl-lsr
+MinPathLen 2 between [0]:jqt and [8]:hfx
+   jqt-rhn rhn-hfx
+MinPathLen 2 between [0]:jqt and [9]:cmg
+   jqt-nvd cmg-nvd
+MinPathLen 2 between [0]:jqt and [10]:qnr
+   jqt-nvd qnr-nvd
+MinPathLen 2 between [0]:jqt and [11]:lhk
+   jqt-nvd nvd-lhk
+MinPathLen 2 between [0]:jqt and [12]:bvb
+   jqt-rhn rhn-bvb
+MinPathLen 1 between [0]:jqt and [13]:ntq
+   ntq-jqt
+MinPathLen 3 between [0]:jqt and [14]:rzs
+   jqt-nvd cmg-nvd rzs-cmg
+MinPathLen 1 between [1]:rhn and [2]:xhk
+   rhn-xhk
+MinPathLen 2 between [1]:rhn and [3]:nvd
+   jqt-rhn jqt-nvd
+MinPathLen 3 between [1]:rhn and [4]:rsh
+   rhn-hfx pzl-hfx rsh-pzl
+MinPathLen 4 between [1]:rhn and [5]:frs
+   jqt-rhn jqt-nvd qnr-nvd frs-qnr
+MinPathLen 2 between [1]:rhn and [6]:pzl
+   rhn-hfx pzl-hfx
+MinPathLen 3 between [1]:rhn and [7]:lsr
+   rhn-hfx pzl-hfx pzl-lsr
+MinPathLen 1 between [1]:rhn and [8]:hfx
+   rhn-hfx
+MinPathLen 2 between [1]:rhn and [9]:cmg
+   rhn-bvb cmg-bvb
+MinPathLen 3 between [1]:rhn and [10]:qnr
+   jqt-rhn jqt-nvd qnr-nvd
+MinPathLen 3 between [1]:rhn and [11]:lhk
+   jqt-rhn jqt-nvd nvd-lhk
+MinPathLen 1 between [1]:rhn and [12]:bvb
+   rhn-bvb
+MinPathLen 2 between [1]:rhn and [13]:ntq
+   jqt-rhn ntq-jqt
+MinPathLen 3 between [1]:rhn and [14]:rzs
+   rhn-bvb cmg-bvb rzs-cmg
+MinPathLen 2 between [2]:xhk and [3]:nvd
+   jqt-xhk jqt-nvd
+MinPathLen 3 between [2]:xhk and [4]:rsh
+   xhk-hfx pzl-hfx rsh-pzl
+MinPathLen 4 between [2]:xhk and [5]:frs
+   jqt-xhk jqt-nvd qnr-nvd frs-qnr
+MinPathLen 2 between [2]:xhk and [6]:pzl
+   xhk-hfx pzl-hfx
+MinPathLen 3 between [2]:xhk and [7]:lsr
+   xhk-hfx pzl-hfx pzl-lsr
+MinPathLen 1 between [2]:xhk and [8]:hfx
+   xhk-hfx
+MinPathLen 2 between [2]:xhk and [9]:cmg
+   bvb-xhk cmg-bvb
+MinPathLen 3 between [2]:xhk and [10]:qnr
+   jqt-xhk jqt-nvd qnr-nvd
+MinPathLen 3 between [2]:xhk and [11]:lhk
+   jqt-xhk jqt-nvd nvd-lhk
+MinPathLen 1 between [2]:xhk and [12]:bvb
+   bvb-xhk
+MinPathLen 1 between [2]:xhk and [13]:ntq
+   ntq-xhk
+MinPathLen 3 between [2]:xhk and [14]:rzs
+   bvb-xhk cmg-bvb rzs-cmg
+MinPathLen 2 between [3]:nvd and [4]:rsh
+   pzl-nvd rsh-pzl
+MinPathLen 2 between [3]:nvd and [5]:frs
+   qnr-nvd frs-qnr
+MinPathLen 1 between [3]:nvd and [6]:pzl
+   pzl-nvd
+MinPathLen 2 between [3]:nvd and [7]:lsr
+   pzl-nvd pzl-lsr
+MinPathLen 2 between [3]:nvd and [8]:hfx
+   pzl-nvd pzl-hfx
+MinPathLen 1 between [3]:nvd and [9]:cmg
+   cmg-nvd
+MinPathLen 1 between [3]:nvd and [10]:qnr
+   qnr-nvd
+MinPathLen 1 between [3]:nvd and [11]:lhk
+   nvd-lhk
+MinPathLen 2 between [3]:nvd and [12]:bvb
+   cmg-nvd cmg-bvb
+MinPathLen 2 between [3]:nvd and [13]:ntq
+   jqt-nvd ntq-jqt
+MinPathLen 2 between [3]:nvd and [14]:rzs
+   cmg-nvd rzs-cmg
+MinPathLen 1 between [4]:rsh and [5]:frs
+   rsh-frs
+MinPathLen 1 between [4]:rsh and [6]:pzl
+   rsh-pzl
+MinPathLen 1 between [4]:rsh and [7]:lsr
+   rsh-lsr
+MinPathLen 2 between [4]:rsh and [8]:hfx
+   rsh-pzl pzl-hfx
+MinPathLen 2 between [4]:rsh and [9]:cmg
+   rzs-rsh rzs-cmg
+MinPathLen 2 between [4]:rsh and [10]:qnr
+   rsh-frs frs-qnr
+MinPathLen 2 between [4]:rsh and [11]:lhk
+   rsh-frs frs-lhk
+MinPathLen 3 between [4]:rsh and [12]:bvb
+   rsh-pzl pzl-hfx bvb-hfx
+MinPathLen 3 between [4]:rsh and [13]:ntq
+   rsh-pzl pzl-hfx ntq-hfx
+MinPathLen 1 between [4]:rsh and [14]:rzs
+   rzs-rsh
+MinPathLen 2 between [5]:frs and [6]:pzl
+   rsh-frs rsh-pzl
+MinPathLen 1 between [5]:frs and [7]:lsr
+   frs-lsr
+MinPathLen 3 between [5]:frs and [8]:hfx
+   rsh-frs rsh-pzl pzl-hfx
+MinPathLen 2 between [5]:frs and [9]:cmg
+   frs-qnr cmg-qnr
+MinPathLen 1 between [5]:frs and [10]:qnr
+   frs-qnr
+MinPathLen 1 between [5]:frs and [11]:lhk
+   frs-lhk
+MinPathLen 3 between [5]:frs and [12]:bvb
+   frs-qnr cmg-qnr cmg-bvb
+MinPathLen 4 between [5]:frs and [13]:ntq
+   rsh-frs rsh-pzl pzl-hfx ntq-hfx
+MinPathLen 2 between [5]:frs and [14]:rzs
+   rsh-frs rzs-rsh
+MinPathLen 1 between [6]:pzl and [7]:lsr
+   pzl-lsr
+MinPathLen 1 between [6]:pzl and [8]:hfx
+   pzl-hfx
+MinPathLen 2 between [6]:pzl and [9]:cmg
+   pzl-nvd cmg-nvd
+MinPathLen 2 between [6]:pzl and [10]:qnr
+   pzl-nvd qnr-nvd
+MinPathLen 2 between [6]:pzl and [11]:lhk
+   pzl-lsr lsr-lhk
+MinPathLen 2 between [6]:pzl and [12]:bvb
+   pzl-hfx bvb-hfx
+MinPathLen 2 between [6]:pzl and [13]:ntq
+   pzl-hfx ntq-hfx
+MinPathLen 2 between [6]:pzl and [14]:rzs
+   rsh-pzl rzs-rsh
+MinPathLen 2 between [7]:lsr and [8]:hfx
+   pzl-lsr pzl-hfx
+MinPathLen 2 between [7]:lsr and [9]:cmg
+   lsr-lhk cmg-lhk
+MinPathLen 2 between [7]:lsr and [10]:qnr
+   rzs-lsr rzs-qnr
+MinPathLen 1 between [7]:lsr and [11]:lhk
+   lsr-lhk
+MinPathLen 3 between [7]:lsr and [12]:bvb
+   pzl-lsr pzl-hfx bvb-hfx
+MinPathLen 3 between [7]:lsr and [13]:ntq
+   pzl-lsr pzl-hfx ntq-hfx
+MinPathLen 1 between [7]:lsr and [14]:rzs
+   rzs-lsr
+MinPathLen 2 between [8]:hfx and [9]:cmg
+   bvb-hfx cmg-bvb
+MinPathLen 3 between [8]:hfx and [10]:qnr
+   bvb-hfx cmg-bvb cmg-qnr
+MinPathLen 3 between [8]:hfx and [11]:lhk
+   bvb-hfx cmg-bvb cmg-lhk
+MinPathLen 1 between [8]:hfx and [12]:bvb
+   bvb-hfx
+MinPathLen 1 between [8]:hfx and [13]:ntq
+   ntq-hfx
+MinPathLen 3 between [8]:hfx and [14]:rzs
+   bvb-hfx cmg-bvb rzs-cmg
+MinPathLen 1 between [9]:cmg and [10]:qnr
+   cmg-qnr
+MinPathLen 1 between [9]:cmg and [11]:lhk
+   cmg-lhk
+MinPathLen 1 between [9]:cmg and [12]:bvb
+   cmg-bvb
+MinPathLen 2 between [9]:cmg and [13]:ntq
+   cmg-bvb ntq-bvb
+MinPathLen 1 between [9]:cmg and [14]:rzs
+   rzs-cmg
+MinPathLen 2 between [10]:qnr and [11]:lhk
+   cmg-qnr cmg-lhk
+MinPathLen 2 between [10]:qnr and [12]:bvb
+   cmg-qnr cmg-bvb
+MinPathLen 3 between [10]:qnr and [13]:ntq
+   cmg-qnr cmg-bvb ntq-bvb
+MinPathLen 1 between [10]:qnr and [14]:rzs
+   rzs-qnr
+MinPathLen 2 between [11]:lhk and [12]:bvb
+   cmg-lhk cmg-bvb
+MinPathLen 3 between [11]:lhk and [13]:ntq
+   cmg-lhk cmg-bvb ntq-bvb
+MinPathLen 2 between [11]:lhk and [14]:rzs
+   cmg-lhk rzs-cmg
+MinPathLen 1 between [12]:bvb and [13]:ntq
+   ntq-bvb
+MinPathLen 2 between [12]:bvb and [14]:rzs
+   cmg-bvb rzs-cmg
+MinPathLen 3 between [13]:ntq and [14]:rzs
+   ntq-bvb cmg-bvb rzs-cmg
+Link[ 0]jqt-rhn : weight 8
+Link[ 1]jqt-xhk : weight 5
+Link[ 2]jqt-nvd : weight 18
+Link[ 3]rsh-frs : weight 7
+Link[ 4]rsh-pzl : weight 12
+Link[ 5]rsh-lsr : weight 1
+Link[ 6]xhk-hfx : weight 4
+Link[ 7]cmg-qnr : weight 7
+Link[ 8]cmg-nvd : weight 6
+Link[ 9]cmg-lhk : weight 7
+Link[10]cmg-bvb : weight 18
+Link[11]rhn-xhk : weight 1
+Link[12]rhn-bvb : weight 4
+Link[13]rhn-hfx : weight 5
+Link[14]bvb-xhk : weight 3
+Link[15]bvb-hfx : weight 8
+Link[16]pzl-lsr : weight 9
+Link[17]pzl-hfx : weight 18
+Link[18]pzl-nvd : weight 9
+Link[19]qnr-nvd : weight 9
+Link[20]ntq-jqt : weight 3
+Link[21]ntq-hfx : weight 5
+Link[22]ntq-bvb : weight 5
+Link[23]ntq-xhk : weight 1
+Link[24]nvd-lhk : weight 4
+Link[25]lsr-lhk : weight 3
+Link[26]rzs-qnr : weight 2
+Link[27]rzs-cmg : weight 10
+Link[28]rzs-lsr : weight 2
+Link[29]rzs-rsh : weight 4
+Link[30]frs-qnr : weight 8
+Link[31]frs-lhk : weight 2
+Link[32]frs-lsr : weight 1
+WeightSum : 209

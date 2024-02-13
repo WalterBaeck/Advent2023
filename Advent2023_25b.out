@@ -1,0 +1,233 @@
+13 InputLines were read.
+Found 15 Nodes and 33 Links
+===== NodeNr    0 =====
+ 1 nodes with distance cost  0
+ 4 nodes with distance cost  1
+ 6 nodes with distance cost  2
+ 4 nodes with distance cost  3
+MinPathLen 1 between [0]:jqt and [1]:rhn   jqt-rhn
+MinPathLen 1 between [0]:jqt and [2]:xhk   jqt-xhk
+MinPathLen 1 between [0]:jqt and [3]:nvd   jqt-nvd
+MinPathLen 3 between [0]:jqt and [4]:rsh   jqt-nvd nvd-pzl pzl-rsh
+MinPathLen 3 between [0]:jqt and [5]:frs   jqt-nvd nvd-qnr qnr-frs
+MinPathLen 2 between [0]:jqt and [6]:pzl   jqt-nvd nvd-pzl
+MinPathLen 3 between [0]:jqt and [7]:lsr   jqt-nvd nvd-pzl pzl-lsr
+MinPathLen 2 between [0]:jqt and [8]:hfx   jqt-rhn rhn-hfx
+MinPathLen 2 between [0]:jqt and [9]:cmg   jqt-nvd nvd-cmg
+MinPathLen 2 between [0]:jqt and [10]:qnr   jqt-nvd nvd-qnr
+MinPathLen 2 between [0]:jqt and [11]:lhk   jqt-nvd nvd-lhk
+MinPathLen 2 between [0]:jqt and [12]:bvb   jqt-rhn rhn-bvb
+MinPathLen 1 between [0]:jqt and [13]:ntq   jqt-ntq
+MinPathLen 3 between [0]:jqt and [14]:rzs   jqt-nvd nvd-cmg cmg-rzs
+===== NodeNr    1 =====
+ 1 nodes with distance cost  0
+ 4 nodes with distance cost  1
+ 4 nodes with distance cost  2
+ 5 nodes with distance cost  3
+ 1 nodes with distance cost  4
+MinPathLen 1 between [1]:rhn and [2]:xhk   rhn-xhk
+MinPathLen 2 between [1]:rhn and [3]:nvd   rhn-jqt jqt-nvd
+MinPathLen 3 between [1]:rhn and [4]:rsh   rhn-hfx hfx-pzl pzl-rsh
+MinPathLen 4 between [1]:rhn and [5]:frs   rhn-jqt jqt-nvd nvd-qnr qnr-frs
+MinPathLen 2 between [1]:rhn and [6]:pzl   rhn-hfx hfx-pzl
+MinPathLen 3 between [1]:rhn and [7]:lsr   rhn-hfx hfx-pzl pzl-lsr
+MinPathLen 1 between [1]:rhn and [8]:hfx   rhn-hfx
+MinPathLen 2 between [1]:rhn and [9]:cmg   rhn-bvb bvb-cmg
+MinPathLen 3 between [1]:rhn and [10]:qnr   rhn-jqt jqt-nvd nvd-qnr
+MinPathLen 3 between [1]:rhn and [11]:lhk   rhn-jqt jqt-nvd nvd-lhk
+MinPathLen 1 between [1]:rhn and [12]:bvb   rhn-bvb
+MinPathLen 2 between [1]:rhn and [13]:ntq   rhn-jqt jqt-ntq
+MinPathLen 3 between [1]:rhn and [14]:rzs   rhn-bvb bvb-cmg cmg-rzs
+===== NodeNr    2 =====
+ 1 nodes with distance cost  0
+ 5 nodes with distance cost  1
+ 3 nodes with distance cost  2
+ 5 nodes with distance cost  3
+ 1 nodes with distance cost  4
+MinPathLen 2 between [2]:xhk and [3]:nvd   xhk-jqt jqt-nvd
+MinPathLen 3 between [2]:xhk and [4]:rsh   xhk-hfx hfx-pzl pzl-rsh
+MinPathLen 4 between [2]:xhk and [5]:frs   xhk-jqt jqt-nvd nvd-qnr qnr-frs
+MinPathLen 2 between [2]:xhk and [6]:pzl   xhk-hfx hfx-pzl
+MinPathLen 3 between [2]:xhk and [7]:lsr   xhk-hfx hfx-pzl pzl-lsr
+MinPathLen 1 between [2]:xhk and [8]:hfx   xhk-hfx
+MinPathLen 2 between [2]:xhk and [9]:cmg   xhk-bvb bvb-cmg
+MinPathLen 3 between [2]:xhk and [10]:qnr   xhk-jqt jqt-nvd nvd-qnr
+MinPathLen 3 between [2]:xhk and [11]:lhk   xhk-jqt jqt-nvd nvd-lhk
+MinPathLen 1 between [2]:xhk and [12]:bvb   xhk-bvb
+MinPathLen 1 between [2]:xhk and [13]:ntq   xhk-ntq
+MinPathLen 3 between [2]:xhk and [14]:rzs   xhk-bvb bvb-cmg cmg-rzs
+===== NodeNr    3 =====
+ 1 nodes with distance cost  0
+ 5 nodes with distance cost  1
+ 9 nodes with distance cost  2
+ 0 nodes with distance cost  3
+ 0 nodes with distance cost  4
+MinPathLen 2 between [3]:nvd and [4]:rsh   nvd-pzl pzl-rsh
+MinPathLen 2 between [3]:nvd and [5]:frs   nvd-qnr qnr-frs
+MinPathLen 1 between [3]:nvd and [6]:pzl   nvd-pzl
+MinPathLen 2 between [3]:nvd and [7]:lsr   nvd-pzl pzl-lsr
+MinPathLen 2 between [3]:nvd and [8]:hfx   nvd-pzl pzl-hfx
+MinPathLen 1 between [3]:nvd and [9]:cmg   nvd-cmg
+MinPathLen 1 between [3]:nvd and [10]:qnr   nvd-qnr
+MinPathLen 1 between [3]:nvd and [11]:lhk   nvd-lhk
+MinPathLen 2 between [3]:nvd and [12]:bvb   nvd-cmg cmg-bvb
+MinPathLen 2 between [3]:nvd and [13]:ntq   nvd-jqt jqt-ntq
+MinPathLen 2 between [3]:nvd and [14]:rzs   nvd-cmg cmg-rzs
+===== NodeNr    4 =====
+ 1 nodes with distance cost  0
+ 4 nodes with distance cost  1
+ 5 nodes with distance cost  2
+ 5 nodes with distance cost  3
+ 0 nodes with distance cost  4
+MinPathLen 1 between [4]:rsh and [5]:frs   rsh-frs
+MinPathLen 1 between [4]:rsh and [6]:pzl   rsh-pzl
+MinPathLen 1 between [4]:rsh and [7]:lsr   rsh-lsr
+MinPathLen 2 between [4]:rsh and [8]:hfx   rsh-pzl pzl-hfx
+MinPathLen 2 between [4]:rsh and [9]:cmg   rsh-rzs rzs-cmg
+MinPathLen 2 between [4]:rsh and [10]:qnr   rsh-frs frs-qnr
+MinPathLen 2 between [4]:rsh and [11]:lhk   rsh-frs frs-lhk
+MinPathLen 3 between [4]:rsh and [12]:bvb   rsh-pzl pzl-hfx hfx-bvb
+MinPathLen 3 between [4]:rsh and [13]:ntq   rsh-pzl pzl-hfx hfx-ntq
+MinPathLen 1 between [4]:rsh and [14]:rzs   rsh-rzs
+===== NodeNr    5 =====
+ 1 nodes with distance cost  0
+ 4 nodes with distance cost  1
+ 4 nodes with distance cost  2
+ 3 nodes with distance cost  3
+ 3 nodes with distance cost  4
+MinPathLen 2 between [5]:frs and [6]:pzl   frs-rsh rsh-pzl
+MinPathLen 1 between [5]:frs and [7]:lsr   frs-lsr
+MinPathLen 3 between [5]:frs and [8]:hfx   frs-rsh rsh-pzl pzl-hfx
+MinPathLen 2 between [5]:frs and [9]:cmg   frs-qnr qnr-cmg
+MinPathLen 1 between [5]:frs and [10]:qnr   frs-qnr
+MinPathLen 1 between [5]:frs and [11]:lhk   frs-lhk
+MinPathLen 3 between [5]:frs and [12]:bvb   frs-qnr qnr-cmg cmg-bvb
+MinPathLen 4 between [5]:frs and [13]:ntq   frs-rsh rsh-pzl pzl-hfx hfx-ntq
+MinPathLen 2 between [5]:frs and [14]:rzs   frs-rsh rsh-rzs
+===== NodeNr    6 =====
+ 1 nodes with distance cost  0
+ 4 nodes with distance cost  1
+10 nodes with distance cost  2
+ 0 nodes with distance cost  3
+ 0 nodes with distance cost  4
+MinPathLen 1 between [6]:pzl and [7]:lsr   pzl-lsr
+MinPathLen 1 between [6]:pzl and [8]:hfx   pzl-hfx
+MinPathLen 2 between [6]:pzl and [9]:cmg   pzl-nvd nvd-cmg
+MinPathLen 2 between [6]:pzl and [10]:qnr   pzl-nvd nvd-qnr
+MinPathLen 2 between [6]:pzl and [11]:lhk   pzl-lsr lsr-lhk
+MinPathLen 2 between [6]:pzl and [12]:bvb   pzl-hfx hfx-bvb
+MinPathLen 2 between [6]:pzl and [13]:ntq   pzl-hfx hfx-ntq
+MinPathLen 2 between [6]:pzl and [14]:rzs   pzl-rsh rsh-rzs
+===== NodeNr    7 =====
+ 1 nodes with distance cost  0
+ 5 nodes with distance cost  1
+ 4 nodes with distance cost  2
+ 5 nodes with distance cost  3
+ 0 nodes with distance cost  4
+MinPathLen 2 between [7]:lsr and [8]:hfx   lsr-pzl pzl-hfx
+MinPathLen 2 between [7]:lsr and [9]:cmg   lsr-lhk lhk-cmg
+MinPathLen 2 between [7]:lsr and [10]:qnr   lsr-rzs rzs-qnr
+MinPathLen 1 between [7]:lsr and [11]:lhk   lsr-lhk
+MinPathLen 3 between [7]:lsr and [12]:bvb   lsr-pzl pzl-hfx hfx-bvb
+MinPathLen 3 between [7]:lsr and [13]:ntq   lsr-pzl pzl-hfx hfx-ntq
+MinPathLen 1 between [7]:lsr and [14]:rzs   lsr-rzs
+===== NodeNr    8 =====
+ 1 nodes with distance cost  0
+ 5 nodes with distance cost  1
+ 5 nodes with distance cost  2
+ 4 nodes with distance cost  3
+ 0 nodes with distance cost  4
+MinPathLen 2 between [8]:hfx and [9]:cmg   hfx-bvb bvb-cmg
+MinPathLen 3 between [8]:hfx and [10]:qnr   hfx-bvb bvb-cmg cmg-qnr
+MinPathLen 3 between [8]:hfx and [11]:lhk   hfx-bvb bvb-cmg cmg-lhk
+MinPathLen 1 between [8]:hfx and [12]:bvb   hfx-bvb
+MinPathLen 1 between [8]:hfx and [13]:ntq   hfx-ntq
+MinPathLen 3 between [8]:hfx and [14]:rzs   hfx-bvb bvb-cmg cmg-rzs
+===== NodeNr    9 =====
+ 1 nodes with distance cost  0
+ 5 nodes with distance cost  1
+ 9 nodes with distance cost  2
+ 0 nodes with distance cost  3
+ 0 nodes with distance cost  4
+MinPathLen 1 between [9]:cmg and [10]:qnr   cmg-qnr
+MinPathLen 1 between [9]:cmg and [11]:lhk   cmg-lhk
+MinPathLen 1 between [9]:cmg and [12]:bvb   cmg-bvb
+MinPathLen 2 between [9]:cmg and [13]:ntq   cmg-bvb bvb-ntq
+MinPathLen 1 between [9]:cmg and [14]:rzs   cmg-rzs
+===== NodeNr   10 =====
+ 1 nodes with distance cost  0
+ 4 nodes with distance cost  1
+ 6 nodes with distance cost  2
+ 4 nodes with distance cost  3
+ 0 nodes with distance cost  4
+MinPathLen 2 between [10]:qnr and [11]:lhk   qnr-cmg cmg-lhk
+MinPathLen 2 between [10]:qnr and [12]:bvb   qnr-cmg cmg-bvb
+MinPathLen 3 between [10]:qnr and [13]:ntq   qnr-cmg cmg-bvb bvb-ntq
+MinPathLen 1 between [10]:qnr and [14]:rzs   qnr-rzs
+===== NodeNr   11 =====
+ 1 nodes with distance cost  0
+ 4 nodes with distance cost  1
+ 6 nodes with distance cost  2
+ 4 nodes with distance cost  3
+ 0 nodes with distance cost  4
+MinPathLen 2 between [11]:lhk and [12]:bvb   lhk-cmg cmg-bvb
+MinPathLen 3 between [11]:lhk and [13]:ntq   lhk-cmg cmg-bvb bvb-ntq
+MinPathLen 2 between [11]:lhk and [14]:rzs   lhk-cmg cmg-rzs
+===== NodeNr   12 =====
+ 1 nodes with distance cost  0
+ 5 nodes with distance cost  1
+ 6 nodes with distance cost  2
+ 3 nodes with distance cost  3
+ 0 nodes with distance cost  4
+MinPathLen 1 between [12]:bvb and [13]:ntq   bvb-ntq
+MinPathLen 2 between [12]:bvb and [14]:rzs   bvb-cmg cmg-rzs
+===== NodeNr   13 =====
+ 1 nodes with distance cost  0
+ 4 nodes with distance cost  1
+ 4 nodes with distance cost  2
+ 5 nodes with distance cost  3
+ 1 nodes with distance cost  4
+MinPathLen 3 between [13]:ntq and [14]:rzs   ntq-bvb bvb-cmg cmg-rzs
+===== NodeNr   14 =====
+ 1 nodes with distance cost  0
+ 4 nodes with distance cost  1
+ 5 nodes with distance cost  2
+ 5 nodes with distance cost  3
+ 0 nodes with distance cost  4
+Link[ 0]jqt-rhn : weight 8
+Link[ 1]jqt-xhk : weight 5
+Link[ 2]jqt-nvd : weight 18
+Link[ 3]rsh-frs : weight 7
+Link[ 4]rsh-pzl : weight 12
+Link[ 5]rsh-lsr : weight 1
+Link[ 6]xhk-hfx : weight 4
+Link[ 7]cmg-qnr : weight 7
+Link[ 8]cmg-nvd : weight 6
+Link[ 9]cmg-lhk : weight 7
+Link[10]cmg-bvb : weight 18
+Link[11]rhn-xhk : weight 1
+Link[12]rhn-bvb : weight 4
+Link[13]rhn-hfx : weight 5
+Link[14]bvb-xhk : weight 3
+Link[15]bvb-hfx : weight 8
+Link[16]pzl-lsr : weight 9
+Link[17]pzl-hfx : weight 18
+Link[18]pzl-nvd : weight 9
+Link[19]qnr-nvd : weight 9
+Link[20]ntq-jqt : weight 3
+Link[21]ntq-hfx : weight 5
+Link[22]ntq-bvb : weight 5
+Link[23]ntq-xhk : weight 1
+Link[24]nvd-lhk : weight 4
+Link[25]lsr-lhk : weight 3
+Link[26]rzs-qnr : weight 2
+Link[27]rzs-cmg : weight 10
+Link[28]rzs-lsr : weight 2
+Link[29]rzs-rsh : weight 4
+Link[30]frs-qnr : weight 8
+Link[31]frs-lhk : weight 2
+Link[32]frs-lsr : weight 1
+WeightSum : 209
+Link[2]jqt-nvd has weight 18
+Link[10]cmg-bvb has weight 18
+Link[17]pzl-hfx has weight 18
